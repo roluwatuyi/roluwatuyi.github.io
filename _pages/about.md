@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p>University of Cape Town,</p>
     <p>South Africa</p>
-    #<p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
